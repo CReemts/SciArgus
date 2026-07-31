@@ -116,3 +116,12 @@ Geoscientific Model Development
 Big Earth Data
 Bioacoustics
 National Bureau of Economic Research
+Southwestern Naturalist
+Southeastern Naturalist
+Fire Ecology
+Ecosphere
+Invasive Plant Science and Management
+Restoration Ecology
+Ecological Restoration
+The Rangeland Journal
+Rangeland Ecology and Management
