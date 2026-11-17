@@ -15,3 +15,11 @@ Chris Helzer
 Marissa Ahlering
 Elizabeth Bach
 Katharine Hogan
+Paulo M. Fernandes
+Pedro A. M. Leite
+Andrew M. Barton
+Matthew D. Hurteau
+Kiona Ogle
+Christine Hawkes
+J. Morgan Varner
+Anne E. Magurran
